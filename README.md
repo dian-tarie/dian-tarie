@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dian-tarie
 - 👀 I’m interested in software QA
-- 🌱 I’m currently learning HTML5, CSS, Javascript
+- 🌱 I’m currently learning HTML5, CSS, Javascript, API testing and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
